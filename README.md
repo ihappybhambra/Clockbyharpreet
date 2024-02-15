@@ -1,5 +1,2 @@
 # Clockbyharpreet
-My first simple clock 
-<br>
-hello how are you.
-hello ji
+This is a simple clock
